@@ -1,0 +1,143 @@
+Statistics		
+	1.EDA	
+		Elements of Structured Data
+		Rectangular Data
+		Estimates location
+		Estimates of Variability
+		Exploring the Data Distribution
+		Exploring Binary and Categorical Data    
+		Correlation
+		Exploring Two or More Variables
+	2. Data and Sampling Distributions	
+		Random Sampling and Sample Bias
+		Selection Bias
+		Sampling Distributino of a Statistic
+		The Bootstrap
+		Confidence Intervals
+		Normal Distribution
+		Long-Tailed Distribution
+		Student's t-Distribution
+		Binomial Distribution
+		Chi-Square Distribution
+		F-Distribution
+		Poisson and Related Distributions
+	3. Statistical Experiments and Significance Testing	
+		A/B Testing
+		Hypothesis Tests
+		Resampling
+		Statistical Significance and p-Values
+		t-Tests
+		Multiple Testing
+		Degree of Freedom
+		ANOVA
+		chi-Square Test
+		Multi-Arm Bandit Algorithm
+		Power and Sample Size
+	4.Regression and prediction	
+		Simple Linear Regression
+		Multiple Linear Regression
+		Prediction Using Regression
+		Factor Variables in Regression
+		Interpreting the Regression Equation
+		Regression Diagnostics
+		Polynomial and Spline Regression
+	5.Classification	
+		Naïve Bayes
+		Discriminant Analysis
+		Logistic Regression
+		Evaluation Classification Models
+		Strategies for Imbalanced Data
+	6. Statistical Machine Learning	
+		K-Nearest Neighbors
+		Tree Models
+		Bagging and the Random Forest
+		Boosting
+	7.Unsupervised Learning	
+		Principal Components Analysis
+		K Means Clustering
+		Hierarchical Clustering
+		Model-Based Clustering
+		Scaling and Categorical Variables
+	8. Regression and Classification Trees	
+		Decision Trees
+		Structure of Decision Trees
+		Recursive Partitioning Algorithm
+		Random Forest
+		
+		
+Maths		
+	1. Probability Review	
+		Sample Spaces
+		Conditional Probability and Independence
+		Density Functions
+		Expected Value
+		Variance
+		Joint, Marginal, and Conditional Distribution
+		Baye's Rule
+		Bayesian Inference
+	2. Convergence and Sampling	
+		Sample and Estimation
+		Probably Approximately Correct
+		Concentration of Measure
+		Importance Sampling
+	3. Linear Algebra Review	
+		Vectore and Matrices
+		Addition and Multiplication
+		Norms
+		Linear Independence
+		Rank
+		Inverse
+		Determinant
+		Orthogonality
+	4. Distance and Nearest Neighbors	
+		Metrics
+		Lp Distances and Their Relatives
+		Distances for Sets and Strings
+		Modeling Text with Distances
+		Similarites
+		Locality Sensitive Hashing
+	5. Linear Regression	
+		Simple Linear Regression
+		Linear Regression with Multiple Explanatory Variables
+		Polynomial Regression
+		Cross Validation
+		Regularized Regression
+	6. Gradient Descent	
+		Functions
+		Gradients
+		Gradient Descent
+		Fitting a Model to Data
+	7. Principal Component Analysis	
+		Data Matrices
+		Singular Value Decompositon
+		Eigenvalues and Eigenvectors
+		The Power Method
+		Principal Component Analysis
+		Multidimensional Scaling
+		Linear Discriminant Analysis
+		Distance Metric Learning
+		Matrix Completion
+		Random Projections
+	8. Clustering	
+		Voronoi Diagrams
+		Gonzalez Algorithm for k-Center Clustering
+		Lloyd's Algorithm for i-Means Clustering
+		Mixture of Gaussians
+		Hierrchical Clustering
+		Density-based Clustering and Outliers
+		Mean Shift Clustering
+	9. Classification	
+		Linear Classifier
+		Perceptron Algorithm
+		Kernels
+		kNN Classifier
+		Neural Networks
+	10. Graphs	
+		Markov Chains
+		PageRank
+		Spectral Clustering on Graphs
+		Communities in Graphs
+	11. Big Data and Sketching	
+		The Streaming Model
+		Frequent Items
+		Matrix Sketching
